@@ -1,6 +1,13 @@
 # SBT Prediction Model for CPT Data
 
-This repository contains code for training and using a deep learning model to predict Soil Behavior Type (SBT) values based on Cone Penetrometer Test (CPT) data. The model is implemented using TensorFlow and Keras.
+This project is implemented as a Google Colab notebook, allowing you to easily run and experiment with the SBT Prediction Model in a cloud-based environment. Google Colab provides a convenient interface for running Python code, managing dependencies, and leveraging GPU resources for accelerated model training.
+
+To get started with the SBT Prediction Model on Google Colab:
+
+1. Open the notebook file (`SBT_Prediction_Model.ipynb`) in Google Colab.
+2. Follow the instructions provided within the notebook to upload your training and new data files, adjust hyperparameters, train the model, and make predictions.
+
+This repository contains code for training and using a deep learning model to predict Soil Behavior Type (SBT) values based on Cone Penetrometer Test (CPT) data. The model is implemented using TensorFlow and Keras. 
 
 ## Introduction
 
