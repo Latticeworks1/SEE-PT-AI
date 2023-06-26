@@ -79,6 +79,7 @@ Here's how you can set up and test the model using the HogenGoler sounding data:
 Depth Speed Tip Friction Pressure SBT
 
 0.066 2 0.3716 0.21973 -0.09607 5
+
 ...
 
 
@@ -95,9 +96,10 @@ Ensure that the columns are separated by either spaces or tabs consistently thro
 
 2. The new data for prediction should be a TXT file with the same column structure as the training data, but without the SBT column. For example:
 
-Depth Speed Tip Friction Pressure
+Depth Speed Tip Friction Pressure SBT
 
 0.02 2.29 0.37404 0.21034 -0.09698
+
 ...
 
 3. Use the provided sliders and buttons to adjust the model hyperparameters and initiate training or prediction.
