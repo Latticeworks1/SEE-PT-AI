@@ -1,5 +1,5 @@
+![image](https://github.com/Latticeworks1/SEE-PT-AI/assets/124119892/1f370c13-6f68-4ce1-988b-4b11e37b32a2)
 
-![image](https://github.com/Latticeworks1/SEE-PT-AI/assets/124119892/9ebffd97-7d25-40d4-8d91-eb1edaafbcc7)
 
 
 # SBT Prediction Model for CPT Data
