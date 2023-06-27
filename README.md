@@ -2,6 +2,7 @@
 
 
 # SBT Prediction Model for CPT Data
+![ge](https://github.com/Latticeworks1/SEE-PT-AI/assets/124119892/a1993c27-d723-4bda-a323-9fefcc5f71cb)
 
 This project is implemented as a Google Colab notebook, allowing you to easily run and experiment with the SBT Prediction Model in a cloud-based environment. Google Colab provides a convenient interface for running Python code, managing dependencies, and leveraging GPU resources for accelerated model training.
 
@@ -124,7 +125,7 @@ Depth Speed Tip Friction Pressure SBT
 
 Feel free to explore and experiment with different configurations and datasets to utilize the SBT Prediction Model effectively.
 
-![ge](https://github.com/Latticeworks1/SEE-PT-AI/assets/124119892/a1993c27-d723-4bda-a323-9fefcc5f71cb)
+
 
 
 
