@@ -1,3 +1,7 @@
+
+https://giphy.com/clips/xU5eJlXYuSC23SmrYL
+
+
 # SBT Prediction Model for CPT Data
 
 This project is implemented as a Google Colab notebook, allowing you to easily run and experiment with the SBT Prediction Model in a cloud-based environment. Google Colab provides a convenient interface for running Python code, managing dependencies, and leveraging GPU resources for accelerated model training.
