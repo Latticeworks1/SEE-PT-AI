@@ -1,5 +1,4 @@
-
-![Uploading load.jpg…]()
+![load](https://github.com/Latticeworks1/SEE-PT-AI/assets/124119892/6888c4f4-0a7c-46c5-907a-28f867e6babd)
 
 
 # SBT Prediction Model for CPT Data
@@ -124,3 +123,8 @@ Depth Speed Tip Friction Pressure SBT
 7. The predicted SBT values will be displayed, and a plot comparing the predicted SBT values with the depth will be generated.
 
 Feel free to explore and experiment with different configurations and datasets to utilize the SBT Prediction Model effectively.
+
+![ge](https://github.com/Latticeworks1/SEE-PT-AI/assets/124119892/a1993c27-d723-4bda-a323-9fefcc5f71cb)
+
+
+
