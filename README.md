@@ -1,5 +1,4 @@
 
-https://giphy.com/clips/xU5eJlXYuSC23SmrYL
 
 
 # SBT Prediction Model for CPT Data
