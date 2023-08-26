@@ -17,16 +17,8 @@ This repository contains code for training and using a deep learning model to pr
 
 The SBT Prediction Model is designed to learn the relationship between input features derived from CPT data and SBT values, enabling accurate predictions on new data. The model architecture consists of multiple fully connected layers with dropout regularization to prevent overfitting. The training data is normalized using a Min-Max scaler before training the model. The model is trained using the Adam optimizer and mean squared error loss.
 
-**SBT Prediction**
-
-The SBT Prediction Model utilizes a deep learning approach to estimate SBT values directly from CPT data, without the need for explicit calculations of cone resistance (qt) and friction ratio (Rf). By learning the underlying patterns and correlations between the input features extracted from CPT data and SBT values, the model makes direct predictions, simplifying the prediction process and saving computational resources. It enables efficient estimation of SBT values based on readily available input parameters, making it a valuable tool in geotechnical engineering and related fields.
-
-**SBT Prediction Model**
-
-The SBT Prediction Model is a machine learning model that predicts the Soil Behavior Type (SBT) using input features derived from CPT data. The model eliminates the need for calculating cone resistance (qt) and friction ratio (Rf) by directly predicting the SBT value.
 
 **Features**
-
 - Utilizes a neural network-based model for accurate SBT prediction from CPT data.
 - Supports customization of model architecture through adjustable hyperparameters.
 - Allows training on user-provided CPT data and prediction on new data.
